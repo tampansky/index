@@ -1,5 +1,5 @@
 # index
 
-// how to install
+$ how to install
 
-bash install.sh
+$ bash install.sh
